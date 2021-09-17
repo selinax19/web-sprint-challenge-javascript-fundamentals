@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//A closure is considered an inner function that is used for data from an outer function. If the inner function is inside a bigger function then it can reach upwards.
 
 
 
@@ -30,7 +30,6 @@ For example, `summation(4)` should return 10 because 1+2+3+4 is 10. Note, you ma
 
 const summation = (number) => (number * (number +1))/2
   console.log(summation(4));
-  
 // 🦁🦁🦁 Topic 2: ADVANCED Array Methods 🦁🦁🦁
 // Given this zoo data from around the United States, follow the instructions below. Use the specific array methods in the requests below to solve the problems.
 
